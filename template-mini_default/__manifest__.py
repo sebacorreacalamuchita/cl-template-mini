@@ -64,7 +64,7 @@
                 'limit_memory_hard = 2684354560',
     ],
 
-    'port': '8079',
+    'port': '8069',
 
     'git-repos': [
         'https://github.com/sebacorreacalamuchita/cl-template-mini',
